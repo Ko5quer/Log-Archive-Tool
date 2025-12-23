@@ -53,7 +53,7 @@ The log file archive.log in the same folder records each operation:
 └── archive.log
 ```
 
-##Notes
+## Notes
 - The script only reads files; it does not modify the original directory.-
 - You can archive any folder, not just /var/log.
 - Use sudo only if archiving directories with restricted permissions.
