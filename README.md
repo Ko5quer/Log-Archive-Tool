@@ -1,16 +1,16 @@
-#Log Archive Tool
+# Log Archive Tool
 
 A simple Bash script to archive logs from the command line.
 
 This tool compresses a given directory (like /var/log) into a .tar.gz file, stores it in a dedicated archive folder, and logs the operation with the date and time. It’s a beginner-friendly project to practice Bash scripting, working with files, directories, timestamps, and command-line arguments.
 
-##Features
+## Features
 -Accepts a directory as a command-line argument
 -Creates a compressed archive (.tar.gz) with the current date and time
 -Stores archives in ~/log_archives/
 -Logs each archive operation in archive.log
 
-##Usage
+## Usage
 ### 1.Make the script executable
 ```
 -chmod +x log-archive
@@ -46,7 +46,7 @@ The log file archive.log in the same folder records each operation:
 - Bash shell
 - tar installed (default on most systems)
 
-##Example Output
+## Example Output
 ```
 ~/log_archives/
 ├── logs_archive_20251223_134512.tar.gz
