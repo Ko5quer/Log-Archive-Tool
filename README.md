@@ -58,6 +58,8 @@ The log file archive.log in the same folder records each operation:
 - You can archive any folder, not just /var/log.
 - Use sudo only if archiving directories with restricted permissions.
 
+Project URL
+https://roadmap.sh/projects/log-archive-tool
 
 Author
 
