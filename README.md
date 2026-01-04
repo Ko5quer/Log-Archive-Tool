@@ -63,4 +63,4 @@ https://roadmap.sh/projects/log-archive-tool
 
 Author
 
-Created by [Prince] as a learning project in Bash scripting.
+Created by Prince as a learning project in Bash scripting.
